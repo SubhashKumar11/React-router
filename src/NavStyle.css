@@ -1,0 +1,12 @@
+.navbar{
+    text-align: right;
+    color: aqua;
+
+}
+li:active{
+    color: rgb(207, 23, 185);
+}
+
+.nav-bar-link:hover{
+    color: aqua;
+}
